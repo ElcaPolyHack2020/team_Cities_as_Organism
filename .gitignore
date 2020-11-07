@@ -2,3 +2,10 @@
 logs/
 __pycache__/
 paths.yaml
+bin/
+include/
+lib/
+lib64/
+logs/
+pyvenv.cfg
+share/
