@@ -1,3 +1,0 @@
-SUMO_HOME: /usr/local/share/sumo
-SUMOCFG_FILE: ../../trafficmap/aarhus/osm.sumocfg
-NETWORK_XML_FILE: ../../trafficmap/aarhus/osm.net.xml
