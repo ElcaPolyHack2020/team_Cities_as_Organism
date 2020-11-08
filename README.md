@@ -2,6 +2,7 @@
 
 ## Requirements
 yaml: ```pip install PyYAML```
+numpy: ```pip install numpy```
 
 ## Setup
 Create a file called ```paths.yaml``` in the same directory as ```main.py``` 
