@@ -5,6 +5,7 @@ import random
 import csv
 import yaml
 
+
 with open("paths.yaml") as file:
     paths_configs = yaml.load(file)
 
@@ -30,7 +31,7 @@ def main():
     # Paramters
 
     # number of simulation step (max. value is 86400 steps = 24 h * 60 min * 60 s)
-    simulation_steps = 86400
+    simulation_steps = 20000
     # sleep time between 2 simulation step. no sleep is set to 0.0
     sleep_time = 0.01
 
